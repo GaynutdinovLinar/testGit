@@ -1,3 +1,3 @@
 ﻿
 
-Console.WriteLine("Git");
+Console.WriteLine("Hi");
