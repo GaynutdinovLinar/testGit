@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\linar\\source\\repos\\TestGit\\TestGit\\TestGit.csproj": {}
+    "C:\\Users\\linar\\Desktop\\test\\TestGit\\TestGit.csproj": {}
   },
   "projects": {
-    "C:\\Users\\linar\\source\\repos\\TestGit\\TestGit\\TestGit.csproj": {
+    "C:\\Users\\linar\\Desktop\\test\\TestGit\\TestGit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\linar\\source\\repos\\TestGit\\TestGit\\TestGit.csproj",
+        "projectUniqueName": "C:\\Users\\linar\\Desktop\\test\\TestGit\\TestGit.csproj",
         "projectName": "TestGit",
-        "projectPath": "C:\\Users\\linar\\source\\repos\\TestGit\\TestGit\\TestGit.csproj",
+        "projectPath": "C:\\Users\\linar\\Desktop\\test\\TestGit\\TestGit.csproj",
         "packagesPath": "C:\\Users\\linar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\linar\\source\\repos\\TestGit\\TestGit\\obj\\",
+        "outputPath": "C:\\Users\\linar\\Desktop\\test\\TestGit\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages",

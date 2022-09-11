@@ -1,3 +1,9 @@
 ﻿
+using TestGit;
 
-Console.WriteLine("Hi");
+Person Linar = new()
+{
+    Name = "Linar"
+};
+
+Console.WriteLine(Linar.Name);
